@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.my_projectapk"
+    namespace "cm.algorithme.my_projectapk"
     defaultConfig {
-        applicationId "com.my_projectapk"
+        applicationId "cm.algorithme.my_projectapk"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,4 +1,4 @@
-package com.my_projectapk;
+package cm.algorithme.my_projectapk;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
